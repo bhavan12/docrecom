@@ -184,6 +184,3 @@ def recommendations(cosine_sim=cosine_sim):
         #print("recommended_movies")
     #return recommended_docs
     return json.dumps(recommended_docs)
-
-if __name__ == '__main__':
-  app.run(debug=True)
