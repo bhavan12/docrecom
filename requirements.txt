@@ -57,7 +57,7 @@ pytesseract==0.2.6
 python-dateutil==2.5.0
 python-docx==0.8.10
 pytz==2018.4
-pywin32==224
+pywin32==301
 PyYAML==3.13
 rake-nltk==1.0.4
 requests==2.21.0
