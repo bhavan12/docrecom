@@ -51,7 +51,7 @@ protobuf==3.6.1
 psycopg2==2.7.6.1
 pygal==2.4.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypiwin32==223
 pytesseract==0.2.6
 python-dateutil==2.5.0
